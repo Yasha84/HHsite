@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <style>
+      body{
+        background-color:pink;
+      }
+div{
+  display: flex;
+  flex-direction: column;
+  }
+
+       a{
+    text-align:center;
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+  }
+
+      </style>
+  </head>
+  <body>
+    <div>
+      <a href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/205.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/206.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/207.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/208.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/209.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/210.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/211.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/212.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/213.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/214.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/215.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/216.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/217.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/218.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/219.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/220.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/221.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/222.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/223.png">
+      <img src="https://eromanga-sora.com/wp-content/uploads/2020/05/224.png">
+      
+      
+      </div>    
+
+    
+  </body>
+</html>
