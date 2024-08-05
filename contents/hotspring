@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <style>
+      body{
+        background-color:pink;
+      }
+div{
+  display: flex;
+  flex-direction: column;
+  }
+
+       a{
+    text-align:center;
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+  }
+
+      </style>
+  </head>
+  <body>
+    <div>
+      <a href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00001.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00002.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00003.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00004.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00005.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00006.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00007.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00008.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00009.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00010.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00011.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00012.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00013.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00014.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00015.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00016.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00017.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00018.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00019.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00020.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00021.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00022.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00023.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00034.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00025.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00026.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00027.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00028.webp">
+      <img src="https://cdn-msp.18-comicblade.vip/media/photos/87503/00029.webp">
+      
+      
+      
+      
+      </div>    
+
+    
+  </body>
+</html>
