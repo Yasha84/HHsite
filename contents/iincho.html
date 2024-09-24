@@ -18,10 +18,34 @@ div{
     color:black;
   }
 
+  .pagetop {
+    height: 125px;
+    width: 125px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    background: #fff;
+    border: solid 2px #000;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+.pagetop__arrow {
+    height: 30px;
+    width: 30px;
+    border-top: 3px solid #000;
+    border-right: 3px solid #000;
+    transform: translateY(20%) rotate(-45deg);
+}
+
       </style>
   </head>
   <body>
     <div>
+      <a class="pagetop" href="#"><div class="pagetop__arrow"></div></a>
       <a href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
       <img src="https://eromanga-sora.com/wp-content/uploads/2023/02/01-146-768x1091.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2023/02/02-142-768x1091.jpg">
