@@ -33,11 +33,35 @@
       display: flex;
       justify-content: center;  
       }
+      .pagetop {
+    height: 125px;
+    width: 125px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    background: #fff;
+    border: solid 2px #000;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+.pagetop__arrow {
+    height: 30px;
+    width: 30px;
+    border-top: 3px solid #000;
+    border-right: 3px solid #000;
+    transform: translateY(20%) rotate(-45deg);
+}
+
 
       </style>
   </head>
   <body>
     <div class="A">
+      <a class="pagetop" href="#"><div class="pagetop__arrow"></div></a>
       <a class="top"  href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
 
       <div class="mokujidiv">
@@ -134,4 +158,8 @@
 
     
   </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 4f9caf6a6c08ae90b95ef35a0977726856a0cdff
