@@ -1,29 +1,51 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   <head>
     <base target="_top">
     <style>
       body{
         background-color:pink;
       }
-div{
+     
+      .A{
   display: flex;
   flex-direction: column;
   }
 
-       a{
+       .top{
     text-align:center;
     font-size:20px;
     text-decoration: none;
     color:black;
   }
 
+
+      .mokuji{
+        font-size:30px;
+        color:black;
+        display: inline-block;
+        justify-content: center;
+        padding:5px;
+
+      }
+
+      .mokujidiv{
+      display: flex;
+      justify-content: center;  
+      }
+
       </style>
   </head>
   <body>
-    <div>
-      <a href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
-      <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_001-1.jpg">
+    <div class="A">
+      <a class="top"  href="https://yasha84.github.io/HHsite/"><h1>トップへ戻る</h1></a>
+
+      <div class="mokujidiv">
+        <a class="mokuji" href="#1">全編</a>
+         <a class="mokuji" href="#2">中編</a>
+         <a class="mokuji" href="#3">後編</a>
+         </div>
+      <img id="1" src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_001-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_002-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_003-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_004-1.jpg">
@@ -48,7 +70,7 @@ div{
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_023.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/1_024.jpg">
 
-      <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_001-1.jpg">
+      <img id="2" src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_001-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_002-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_003-1.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_004-1.jpg">
@@ -75,7 +97,7 @@ div{
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_025.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/2_026.jpg">
       
-      <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/3_001.jpg">
+      <img id="3" src="https://eromanga-sora.com/wp-content/uploads/2018/02/3_001.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/3_002.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/3_003.jpg">
       <img src="https://eromanga-sora.com/wp-content/uploads/2018/02/3_004.jpg">
